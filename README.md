@@ -7,7 +7,7 @@ PS C:\Users\anjaneyalu\Desktop\vs code py\finalproject.py> & C:/Users/anjaneyalu
 2)Register
 3)exit
 1
-Enter username :venkat
+Enter username :vij
 Enter password :1234
 1) Place New Order
 2) Order History
@@ -63,7 +63,7 @@ Enter password :1234
 3) Update Profile
 4) Exit
 4
-PS C:\Users\Venkat\Desktop\__20__final_project.py> & C:/Users/Venkat/AppData/Local/Programs/Python/Python38/python.exe c:/Users/Venkat/Desktop/__20__final_project.py/main.py
+PS C:\Users\anjaneyalu\Desktop\vs code py\__20__final_project.py> & C:/Users/anjaneyalu/AppData/Local/Programs/Python/Python38/python.exe c:/Users/Venkat/Desktop/vs code py/finalproject/main.py
 1)user
 2)admin
 3)exit
