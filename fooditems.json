@@ -1,26 +1,26 @@
 [
     {
-        "name": "Vegan Burger",
+        "name": "fry biryani",
         "foodid": 2,
         "quantity": 1,
         "price": 320.0,
-        "discount": 3.5,
-        "stock": 30
+        "discount": 4.0,
+        "stock": 12
     },
     {
-        "name": "Truffle Cake",
+        "name": "oreo sahake",
         "foodid": 3,
         "quantity": 500,
-        "price": 900.0,
+        "price": 150,
         "discount": 5.0,
         "stock": 20
     },
     {
-        "name": "chiken Tikka",
+        "name": "wings biryani",
         "foodid": 576,
-        "quantity": "500g",
+        "quantity": 400,
         "price": 250,
         "discount": 10.0,
-        "stock": 100
+        "stock": 50
     }
 ]
