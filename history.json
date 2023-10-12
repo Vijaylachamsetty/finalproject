@@ -113,7 +113,7 @@
             {
                 "name": "wings biryani",
                 "foodid": 576,
-                "quantity": "500g",
+                "quantity": 500,
                 "price": 280,
                 "discount": 10.0,
                 "stock": 50
